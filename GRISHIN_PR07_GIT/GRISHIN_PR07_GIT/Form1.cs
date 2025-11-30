@@ -19,6 +19,8 @@ namespace GRISHIN_PR07_GIT
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Form2 sw1 = new Form2();
+            sw1.ShowDialog();
         }
     }
 }
